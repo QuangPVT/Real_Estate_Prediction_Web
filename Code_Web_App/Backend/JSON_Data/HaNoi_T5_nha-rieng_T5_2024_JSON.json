@@ -1,0 +1,31 @@
+{
+    "model": "HaNoi_T5",
+    "type": "nha-rieng",
+    "data_columns": [
+        "area",
+        "floors",
+        "bedroom",
+        "toilet",
+        "facade",
+        "furniture",
+        "status_doc",
+        "market",
+        "hospital"
+    ],
+    "district_columns": [
+        "ba-dinh",
+        "bac-tu-liem",
+        "cau-giay",
+        "dong-da",
+        "ha-dong",
+        "hai-ba-trung",
+        "hoai-duc",
+        "hoang-mai",
+        "long-bien",
+        "nam-tu-liem",
+        "tay-ho",
+        "thanh-tri",
+        "thanh-xuan"
+    ],
+    "model_accuracy": 0.8520469521529732
+}

@@ -1,0 +1,30 @@
+{
+    "model": "HaNoi_T5",
+    "type": "dat-dat-nen",
+    "data_columns": [
+        "area"
+    ],
+    "district_columns": [
+        "ba-vi",
+        "bac-tu-liem",
+        "cau-giay",
+        "chuong-my",
+        "dan-phuong",
+        "dong-anh",
+        "gia-lam",
+        "ha-dong",
+        "hoai-duc",
+        "hoang-mai",
+        "long-bien",
+        "me-linh",
+        "nam-tu-liem",
+        "quoc-oai",
+        "soc-son",
+        "son-tay",
+        "tay-ho",
+        "thach-that",
+        "thanh-oai",
+        "thanh-tri"
+    ],
+    "model_accuracy": 0.941325223562886
+}

@@ -1,0 +1,23 @@
+{
+    "model": "HCM_T5",
+    "type": "dat-dat-nen",
+    "data_columns": [
+        "area"
+    ],
+    "district_columns": [
+        "binh-chanh",
+        "binh-tan",
+        "binh-thanh",
+        "can-gio",
+        "cu-chi",
+        "go-vap",
+        "hoc-mon",
+        "nha-be",
+        "quan-12",
+        "quan-2",
+        "quan-7",
+        "quan-9",
+        "thu-duc"
+    ],
+    "model_accuracy": 0.8654934692941983
+}
